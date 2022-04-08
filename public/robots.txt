@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /HospitalListing/
+Allow: /EasyLoanWork/
+Allow: /EasyLoan/
+Allow: /termsandcondition/
+Allow: /privacypolicy/
+Allow: /about/
+Allow: /contact/
+Allow: /insurance/
+Allow: /selfcheckin/
+Allow: /blogs/
+Disallow: /images/
