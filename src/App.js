@@ -7,7 +7,7 @@ function App() {
     var segment_array = segment_str.split('/');
     var HospitalID = segment_array.pop();
 
-    axios.get(`https://bk2-gwli64osaq-el.a.run.app/hospital/getSelectedHospitals`, {
+    axios.get(`https://bk2-7k5qcren2q-el.a.run.app/hospital/getSelectedHospitals`, {
         params: {
             HID: HospitalID
         }
